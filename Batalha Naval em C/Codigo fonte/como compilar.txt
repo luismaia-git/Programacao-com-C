@@ -1,0 +1,1 @@
+entre no terminal linux e digite make gerar_executavel"
